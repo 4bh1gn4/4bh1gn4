@@ -1,6 +1,6 @@
 #  Hi, I'm Abhigna
 
-I’m a passionate developer who loves building functional, user-friendly, and efficient applications. My work spans from **Java algorithms** and **data classification models** to **C# game frameworks** and **full-stack web applications**. I focus on writing clean, maintainable code while exploring new technologies and tools.
+I’m a passionate developer who loves building functional, user-friendly, and efficient applications. My experience spans from **Java algorithms** and **data classification models** to **C# game frameworks** and **full-stack web applications**. I focus on writing clean, maintainable code while exploring new technologies and tools.
 
 ---
 
