@@ -41,5 +41,5 @@ Contributed to a Chrome extension that helps users stay focused by blocking dist
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/abhigna-nimmagadda-59075b2a3](https://www.linkedin.com/in/abhigna-nimmagadda-59075b2a3)
+- **LinkedIn:** [linkedin.com/in/abhigna-cs](www.linkedin.com/in/abhigna-cs)
 - **Email:** abhignan6@gmail.com
