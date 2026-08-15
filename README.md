@@ -32,7 +32,7 @@ Contributed to a Chrome extension that helps users stay focused by blocking dist
 
 ## Skills
 
-- **Languages:** Java, C#, JavaScript, Python
-- **Frameworks/Tools:** React, Flask, JavaFX, Swing, .NET
-- **Specialties:** Full-stack development, algorithm design, UI/UX development, data visualization
-- **Other:** Git/GitHub, Object-Oriented Programming, Debugging, Testing
+- **Languages:** Java, Python, C++, C#, HTML/CSS, JavaScript, TypeScript, SQL
+- **Frameworks:** React, Vue, Node.js, Flask, .NET, Light-RAG, RAGAS
+- **Developer Tools:** Git, GitHub, Azure DevOps, Jira, CI/CD, REST APIs, OAuth 2.0
+- **AI Development:** Claude Code, Codex, custom skills, subagent orchestration, MCP integrations, code/security review
