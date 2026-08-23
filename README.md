@@ -4,18 +4,6 @@ CS + Data Science student at UW Bothell interested in software systems, develope
 
 ---
 
-## Featured Hackathon Projects
-
-### [Dispatch](https://github.com/lnanduri2005/Dispatch) — UW Bothell Hackathon 2026
-Navigation apps tell you how long a drive takes, not when to actually leave — Dispatch closes that gap by folding drive time, security lines, parking, and pickup queues into one recommended departure time. Built with a team of three; contributed frontend and UI development.
-**Tech:** React, Flask, OpenRouteService
-
-### [TabSniper](https://github.com/lnanduri2005/Tab-Sniper-Extension) — UW Bothell Hackathon 2025
-A Chrome extension that blocks distracting sites during timed focus sessions and won't let you touch the blocklist mid-session — a small commitment device against tab-switching. Built with a team of three; contributed frontend and UI development.
-**Tech:** JavaScript, Chrome Extension APIs
-
----
-
 ## Open Source Contributions
 
 ### OpenHospital
@@ -26,6 +14,18 @@ Contributed to [OpenHospital](https://github.com/informatici/openhospital), an o
 - [openhospital-doc #274](https://github.com/informatici/openhospital-doc/pull/274) - Documented the updated report translation structure.
 
 **3 merged pull requests across core, GUI, and documentation**
+
+---
+
+## Featured Hackathon Projects
+
+### [Dispatch](https://github.com/lnanduri2005/Dispatch) — UW Bothell Hackathon 2026
+Navigation apps tell you how long a drive takes, not when to actually leave — Dispatch closes that gap by folding drive time, security lines, parking, and pickup queues into one recommended departure time. Built with a team of three; contributed frontend and UI development.
+**Tech:** React, Flask, OpenRouteService
+
+### [TabSniper](https://github.com/lnanduri2005/Tab-Sniper-Extension) — UW Bothell Hackathon 2025
+A Chrome extension that blocks distracting sites during timed focus sessions and won't let you touch the blocklist mid-session — a small commitment device against tab-switching. Built with a team of three; contributed frontend and UI development.
+**Tech:** JavaScript, Chrome Extension APIs
 
 ---
 
