@@ -16,6 +16,19 @@ A Chrome extension that blocks distracting sites during timed focus sessions and
 
 ---
 
+## Open Source Contributions
+
+### OpenHospital
+Contributed to [OpenHospital](https://github.com/informatici/openhospital), an open-source hospital information system, implementing a cross-repository update to its report localization system.
+
+- [openhospital-core #1592](https://github.com/informatici/openhospital-core/pull/1592) - Migrated JasperReports localization bundles from classpath-based to filesystem loading with legacy fallback support.
+- [openhospital-gui #2196](https://github.com/informatici/openhospital-gui/pull/2196) - Restructured report properties into language-specific subfolders.
+- [openhospital-doc #274](https://github.com/informatici/openhospital-doc/pull/274) - Documented the updated report translation structure.
+
+**3 merged pull requests across core, GUI, and documentation**
+
+---
+
 ## Skills
 
 - **Languages:** Java, Python, C++, C#, HTML/CSS, JavaScript, TypeScript, SQL, Swift
