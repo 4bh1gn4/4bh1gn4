@@ -26,7 +26,8 @@ Navigation apps tell you how long a drive takes, not when to actually leave — 
 ### [TabSniper](https://github.com/lnanduri2005/Tab-Sniper-Extension) — UW Bothell Hackathon 2025
 A Chrome extension that blocks distracting sites during timed focus sessions and won't let you touch the blocklist mid-session — a small commitment device against tab-switching. Built with a team of three; contributed frontend and UI development.
 **Tech:** JavaScript, Chrome Extension APIs
-[Download the extension!](https://chromewebstore.google.com/detail/tab-sniper/ehdaobjgkeigecnmmdokmbkgkclnlgop)
+
+###### [Download the extension!](https://chromewebstore.google.com/detail/tab-sniper/ehdaobjgkeigecnmmdokmbkgkclnlgop)
 ---
 
 ## Skills
