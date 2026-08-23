@@ -23,7 +23,7 @@ Contributed to [OpenHospital](https://github.com/informatici/openhospital), an o
 Navigation apps tell you how long a drive takes, not when to actually leave — Dispatch closes that gap by folding drive time, security lines, parking, and pickup queues into one recommended departure time. Built with a team of three; contributed frontend and UI development.
 **Tech:** React, Flask, OpenRouteService
 
-### [TabSniper](https://github.com/lnanduri2005/Tab-Sniper-Extension) — UW Bothell Hackathon 2025
+### [TabSniper](https://github.com/lnanduri2005/Tab-Sniper-Extension) — [UW Bothell Hackathon 2025](https://chromewebstore.google.com/detail/tab-sniper/ehdaobjgkeigecnmmdokmbkgkclnlgop)
 A Chrome extension that blocks distracting sites during timed focus sessions and won't let you touch the blocklist mid-session — a small commitment device against tab-switching. Built with a team of three; contributed frontend and UI development.
 **Tech:** JavaScript, Chrome Extension APIs
 
