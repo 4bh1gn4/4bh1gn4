@@ -1,6 +1,6 @@
 # Hi, I'm Abhigna
 
-CS + Data Science student at UW Bothell interested in software systems, developer tooling, and applied AI. Currently working on open-source cybersecurity research involving AI-generated bug reports, and building hands-on across Python, Java, TypeScript, and C#.
+CS + Data Science student at UW Bothell interested in software systems, developer tooling, and applied AI. Currently working on open-source cybersecurity and HCI research involving AI-generated bug reports, building hands-on across Python, Java, TypeScript, and C#.
 
 ---
 
